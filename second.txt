@@ -1,2 +1,3 @@
 It is useful for indie developer as well as for developers working by collaberating with each others.
 It depends on how you want to use it
+additionally adding some text from github for just a practice purpose
